@@ -7,19 +7,19 @@
         <item
             android:id="@+id/nav_perfil"
             android:icon="@drawable/ic_menu_perfil"
-            android:title="Import" />
+            android:title="Perfil" />
         <item
             android:id="@+id/nav_analisis"
             android:icon="@drawable/ic_menu_analisis"
-            android:title="Perfil" />
+            android:title="Analisis" />
         <item
             android:id="@+id/nav_plagas"
             android:icon="@drawable/ic_menu_plagas"
-            android:title="Slideshow" />
+            android:title="Plagas" />
         <item
             android:id="@+id/nav_ayuda"
             android:icon="@drawable/ic_menu_ayuda"
-            android:title="Tools" />
+            android:title="Ayuda" />
     </group>
 
     <item android:title="Communicate">
@@ -27,11 +27,11 @@
             <item
                 android:id="@+id/nav_configuracion"
                 android:icon="@drawable/ic_menu_configuracion"
-                android:title="Share" />
+                android:title="configuracion" />
             <item
                 android:id="@+id/nav_salir"
                 android:icon="@drawable/ic_menu_salir"
-                android:title="Send" />
+                android:title="Salir" />
         </menu>
     </item>
 
