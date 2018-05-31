@@ -19,6 +19,10 @@
         <activity
             android:name=".Phumedad"
             android:label="@string/title_activity_phumedad"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Pph"
+            android:label="@string/title_activity_pph"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
